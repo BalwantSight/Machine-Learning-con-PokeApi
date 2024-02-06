@@ -12,21 +12,21 @@
 
 <h2>Descripción del Proyecto</h2>
 
-<p>Este proyecto de aprendizaje automático utiliza el conjunto de datos de la API de Pokémon para clasificar diferentes tipos de Pokémon según sus atributos como experiencia base, altura y peso. Se ha desarrollado un modelo de clasificación utilizando la biblioteca scikit-learn.</p>
+<p>Este proyecto de aprendizaje automático utiliza el conjunto de datos de la API de Pokemon para clasificar diferentes tipos de Pokemon según sus atributos como experiencia base, altura y peso. Se ha desarrollado un modelo de clasificación utilizando la biblioteca scikit-learn.</p>
 
 <h2>Características Principales:</h2>
 
 <ul>
-<li>Obtención de datos desde la API de Pokémon.</li>
+<li>Obtención de datos desde la API de Pokemon.</li>
 <li>Entrenamiento de un modelo de clasificación con Random Forest.</li>
-<li>Interfaz gráfica para predecir el tipo de Pokémon según atributos ingresados.</li>
+<li>Interfaz gráfica para predecir el tipo de Pokemon según atributos ingresados.</li>
 </ul>
 
 <h2>Instrucciones de Uso:</h2>
 
 <ol>
 <li>Ejecutar en la terminal "pip install -r requirements.txt"  dentro de la carpeta del proyecto.</li>
-<li>Ejecutar obtener_datos.py para obtener datos de la API.</li>
-<li>Ejecutar entrenar_modelo.py para entrenar el modelo.</li>
-<li>Ejecutar gui.py para interactuar con la interfaz gráfica y predecir el tipo de Pokémon.</li>
+<li>Ejecutar "obtener_datos.py" para obtener datos de la API.</li>
+<li>Ejecutar "entrenar_modelo.py" para entrenar el modelo.</li>
+<li>Ejecutar "gui.py" para interactuar con la interfaz gráfica y predecir el tipo de Pokemon.</li>
 </ol>
