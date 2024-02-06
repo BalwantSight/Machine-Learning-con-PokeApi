@@ -25,6 +25,7 @@
 <h2>Instrucciones de Uso:</h2>
 
 <ol>
+<li>Ejecutar en la terminal "pip install -r requirements.txt"  dentro de la carpeta del proyecto.</li>
 <li>Ejecutar obtener_datos.py para obtener datos de la API.</li>
 <li>Ejecutar entrenar_modelo.py para entrenar el modelo.</li>
 <li>Ejecutar gui.py para interactuar con la interfaz gráfica y predecir el tipo de Pokémon.</li>
